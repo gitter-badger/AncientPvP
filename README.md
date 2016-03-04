@@ -1,5 +1,8 @@
 # AncientPvP
 
+Last Stable Version: NONE
+Current Version: SnapShot_0.1
+ 
 This is a PaperSpigot Plugin for 1.9 that enables certain PvP Features like:
 
 * Bonus Regeneration  :heart:
