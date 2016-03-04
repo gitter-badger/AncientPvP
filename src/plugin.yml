@@ -1,0 +1,8 @@
+name: AncientPvP
+version: SnapShot_0.1
+description: This Plugin adds PvP Functions
+author: CatPro
+website: 
+ 
+main: net.catpro.ancientpvp.Main
+database: false
