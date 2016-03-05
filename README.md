@@ -2,7 +2,7 @@
 
 Last Stable Version: NONE
 
-Current Version: SnapShot_0.1
+Current Version: v0.0.1-Snapshot
  
 This is a PaperSpigot Plugin for 1.9 that enables certain PvP Features like:
 
